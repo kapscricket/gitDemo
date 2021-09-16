@@ -14,4 +14,8 @@
  */
 
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
+<<<<<<< HEAD
 //echo 'aamir';
+=======
+//echo 'ramss';
+>>>>>>> 7f03dd6831c7fbc1e881de4bf037d8563fc8fa59
